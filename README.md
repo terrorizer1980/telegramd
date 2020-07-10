@@ -1,3 +1,5 @@
+** Telegramd moved to (chatengine)[https://github.com/nebula-chat/chatengine] **
+
 # Telegramd - Unofficial open source telegram server written in golang
 > 打造高性能、稳定并且功能完善的开源telegram服务端，建设开源telegram客户端生态系统非官方首选服务！
 
@@ -142,6 +144,6 @@ open source mtproto server implement by golang, which compatible telegram client
 Please report bugs, concerns, suggestions by issues.
 
 ## Notes
-Chatengine is not a commercial project, only supports mtproto API layer 86, and only supports private chats and small groups. 
+Telegramd is not a commercial project, only supports mtproto API layer 86, and only supports private chats and small groups. 
 
 If need enterprise edition, please PM the [author](https://t.me/benqi) or download clients from [nebula.chat](https://nebula.chat) .
