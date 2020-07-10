@@ -139,5 +139,9 @@ open source mtproto server implement by golang, which compatible telegram client
 [prerequisite](scripts/prerequisite.sh)
 
 ## Feedback
-Please report bugs, concerns, suggestions by issues, or join telegram group [Telegramd](https://t.me/entelegramd) to discuss problems around source code.
+Please report bugs, concerns, suggestions by issues.
 
+## Notes
+Chatengine is not a commercial project, only supports mtproto API layer 86, and only supports private chats and small groups. 
+
+If need enterprise edition, please PM the [author](https://t.me/benqi) or download clients from [nebula.chat](https://nebula.chat) .
